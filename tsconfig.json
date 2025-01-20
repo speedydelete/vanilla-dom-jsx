@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "declaration": true,
+      "emitDeclarationOnly": false,
+      "outDir": "./dist",
+      "strict": true
+    },
+    "files": ["index.ts"],
+    "exclude": ["node_modules"]
+}
