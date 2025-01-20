@@ -1,6 +1,6 @@
 {
   "name": "vanilla-dom-jsx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple JSX pragma for the DOM",
   "license": "MIT",
   "author": "speedydelete",
